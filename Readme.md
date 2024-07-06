@@ -1,2 +1,2 @@
 # first landing page
-## First commit
+## The First Commit
